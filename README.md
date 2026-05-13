@@ -117,6 +117,7 @@ plt.show()
 
 
 <img width="781" height="603" alt="Screenshot 2026-05-13 161932" src="https://github.com/user-attachments/assets/202bda56-d850-482b-be5d-7f6edeaf5f6e" />
+<img width="706" height="595" alt="Screenshot 2026-05-13 161924" src="https://github.com/user-attachments/assets/aead64f9-8f98-4e23-890a-a4eaf5a5f0fb" />
 
 
 
