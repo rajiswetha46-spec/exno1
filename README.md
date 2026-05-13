@@ -1,4 +1,4 @@
-<img width="758" height="580" alt="Screenshot 2026-05-13 161942" src="https://github.com/user-attachments/assets/c6caf9b5-d4c7-4c93-990c-d00f3b2d5f40" /># Exno:1
+# Exno:1
 Data Cleaning Process
 
 # AIM
@@ -122,7 +122,7 @@ plt.show()
 
 
 ```
-# Z-SCORE METHOD
+#Z-SCORE METHOD
 z = np.abs(stats.zscore(ir['petal_length']))
 z
 
@@ -133,6 +133,7 @@ ir1
 ir1.plot.scatter(x='petal_length', y='petal_width', title="After Z-score Outlier Removal")
 plt.show()
 ```
+<img width="758" height="580" alt="Screenshot 2026-05-13 161942" src="https://github.com/user-attachments/assets/b8fd6ba2-0f16-4475-b524-6c83404fdb4b" />
 
 
 <img width="758" height="580" alt="Screenshot 2026-05-13 161942" src="https://github.com/user-attachments/assets/e3d8b0c7-d8f8-435f-9377-16eccd3a9cc8" />
